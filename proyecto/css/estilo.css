@@ -1,0 +1,59 @@
+/*********************************************/
+
+/*Aqi IRA EL COMENTARIO DE MI TRABAJO - ESTILO */
+
+
+/***********************************************/
+
+
+body{background-color: black;
+        color: white;
+        font-family: texto;
+        font-size: 2em;}
+
+
+#wrapper{width: 80%;
+        margin: auto;
+        background-color:blueviolet ;}
+
+
+/*************barra de navegacion***********/
+
+/* nav{font-family: ; } */
+
+
+
+/**************************/
+
+#hero{background-image: url(../img/zeus-7683518_1920.jpg);
+        background-position:50% ;
+        height: 50%;
+    height:100vh ;
+    background-size:cover ;
+}
+
+
+/**************/
+
+@media only screen and (width<640px){
+    #wrapper {width: 95%;}
+}
+
+/***************fuente*********************/
+
+@font-face{
+        src: url(../font/diogenes/DIOGENES.ttf);
+        font-family: texto;
+}
+
+@font-face{
+        src: url();
+        font-family: runas;
+}
+
+
+
+
+
+
+
